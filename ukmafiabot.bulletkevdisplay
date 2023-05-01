@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://www.uk-mafia.co.uk/game*
 // @grant        none
+// @require      https://raw.githubusercontent.com/Anthonyreeder/uk-mafia/main/ukmafiabuttonclicker
 // ==/UserScript==
 
 (function() {
