@@ -5,6 +5,7 @@
 // @description  Click buttons with 'GO' value and navigate to the Prison page when all timers are down
 // @author       You
 // @match        https://www.uk-mafia.co.uk/*
+// @require      https://raw.githubusercontent.com/Anthonyreeder/uk-mafia/main/ukmafiabot.license.js
 // @grant        none
 // ==/UserScript==
 
