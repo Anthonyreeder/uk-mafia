@@ -4,6 +4,7 @@
 // @version      1
 // @description  Automatically clicks the first 'Bust' button on the UK Mafia prison page, does not refresh the page
 // @match        https://www.uk-mafia.co.uk/*
+// @require      https://raw.githubusercontent.com/Anthonyreeder/uk-mafia/main/ukmafia.bulletkevlarbuyer
 // @grant        none
 // ==/UserScript==
 
