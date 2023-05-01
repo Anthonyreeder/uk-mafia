@@ -4,8 +4,9 @@
 // @version      1
 // @description  Checks license validity and sets localStorage value if valid
 // @match        https://www.uk-mafia.co.uk/game*
-// @grant        GM_xmlhttpRequest
 // @require      https://raw.githubusercontent.com/Anthonyreeder/uk-mafia/main/ukmafia.actionclicker.js
+// @grant        GM_xmlhttpRequest
+
 // ==/UserScript==
 
 let licenseKey = ''; // replace with your license key
