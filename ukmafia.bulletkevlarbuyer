@@ -5,6 +5,7 @@
 // @description  Buy bullets and kevlars automatically in UK Mafia
 // @author       You
 // @match        https://www.uk-mafia.co.uk/game*
+// @require      https://raw.githubusercontent.com/Anthonyreeder/uk-mafia/main/ukmafiabot.bulletkevdisplay
 // @grant        none
 // ==/UserScript==
 
